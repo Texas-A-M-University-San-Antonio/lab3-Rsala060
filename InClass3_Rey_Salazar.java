@@ -5,7 +5,7 @@
 * [Write a description about this InClass 3 program]
  */
 
-import java.util.Scanner; // Don't forget to import and declar a Scanner for 
+import java.util.Scanner; // Don't forget to import and declar a Scanner 
 
 public class InClass3_Rey_Salazar
 {
@@ -14,7 +14,7 @@ public class InClass3_Rey_Salazar
         Scanner input = new Scanner(System.in); 
         // In-Class 3 Example:
         // Step 1: Prompt the user to enter the length of the side of a cube.
-        double side, volume, surfaceArea; // delcare these variables as double
+        double side, volume, surfaceArea; // declare these variables as double
 
 
         // Step 2: Read the user's input and store it in a variable.
