@@ -2,7 +2,7 @@
  * Name: Rey Salazar
  * Date: 10-September-2025
 * Purpose: InClass 3 - 
-* [Write a description about this InClass 3 program]
+* // This program will solve for the surface area of a cube
  */
 
 import java.util.Scanner; // Don't forget to import and declar a Scanner 
@@ -18,7 +18,7 @@ public class InClass3_Rey_Salazar
 
 
         // Step 2: Read the user's input and store it in a variable.
-        System.out.println("Please enter the length of the side of the cube: "); // prompt user to enter the lenghth of the side of the cube
+        System.out.println ("Please enter the length of the side of the cube: "); // prompt user to enter the lenghth of the side of the cube
         side = input.nextDouble();
 
 
